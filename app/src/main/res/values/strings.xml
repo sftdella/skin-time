@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Skin Time</string>
+    <string name="notif_channel_id">skintime_reminder</string>
+    <string name="notif_channel_name">Skincare Reminder</string>
+    <string name="notif_title">Waktunya Skincare! 🌙</string>
+    <string name="notif_message">Jangan lupa rutinitas skincare malammu ✨</string>
+    <string name="home">Home</string>
+    <string name="routine">Routine</string>
+    <string name="good_morning">Good morning! ☀️</string>
+    <string name="good_afternoon">Good afternoon! 🌤️</string>
+    <string name="good_evening">Good evening! 🌙</string>
+    <string name="reminder_label">REMINDER</string>
+    <string name="every_day">Setiap hari</string>
+    <string name="activate_reminder">AKTIFKAN REMINDER</string>
+    <string name="deactivate_reminder">NONAKTIFKAN REMINDER</string>
+    <string name="streak_motivation">Jangan berhenti, kamu hebat!</string>
+    <string name="checklist_today">Checklist Hari Ini</string>
+    <string name="complete_routine">Selesai Routine</string>
+    <string name="good_job">Good job! 🌙</string>
+    <string name="manage_checklist">Kelola Checklist</string>
+    <string name="add_step">Tambah Step</string>
+    <string name="achievement_title">Achievement Unlocked!</string>
+    <string name="achievement_7days">7 Days Consistent Routine</string>
+    <string name="achievement_msg">Kamu berhasil menjaga rutinitas skincare selama 7 hari berturut-turut ✨</string>
+</resources>

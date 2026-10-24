@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pink_primary">#F4809D</color>
+    <color name="pink_light">#FAD4E4</color>
+    <color name="pink_background">#FFF0F5</color>
+    <color name="pink_dark">#D4607D</color>
+    <color name="pink_card">#FFFFFF</color>
+    <color name="pink_soft">#FFE8F2</color>
+    <color name="streak_orange">#FF6B35</color>
+    <color name="text_primary">#3D2C2C</color>
+    <color name="text_secondary">#9B8080</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="calendar_completed">#F4809D</color>
+    <color name="calendar_today">#FAD4E4</color>
+    <color name="calendar_empty">#E0E0E0</color>
+</resources>
