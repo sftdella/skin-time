@@ -15,6 +15,23 @@ Atur rutinitas pagi & malam, dapatkan rekomendasi perawatan kulit sesuai cuaca, 
 
 ---
 
+## 📱 Tampilan Aplikasi
+
+<table>
+  <tr>
+    <td align="center"><img src="screenshots/home.png" width="230" alt="Home"/><br/><b>Home</b><br/><sub>Cuaca & rekomendasi skincare</sub></td>
+    <td align="center"><img src="screenshots/add-session.png" width="230" alt="Tambah Session"/><br/><b>Tambah Session</b><br/><sub>Pilih Morning, Night, atau aktivitas</sub></td>
+    <td align="center"><img src="screenshots/routine-checklist.png" width="230" alt="Checklist Routine"/><br/><b>Checklist Routine</b><br/><sub>Centang step skincare satu per satu</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/calendar.png" width="230" alt="Calendar"/><br/><b>Calendar</b><br/><sub>Riwayat sesi per tanggal</sub></td>
+    <td align="center"><img src="screenshots/analytics.png" width="230" alt="Analytics"/><br/><b>Analytics</b><br/><sub>Streak, Skin Score & grafik mingguan</sub></td>
+    <td align="center"><img src="screenshots/achievements.png" width="230" alt="Achievement"/><br/><b>Achievement</b><br/><sub>Badge & statistik routine</sub></td>
+  </tr>
+</table>
+
+---
+
 ## ✨ Fitur
 
 ### 🏠 Home
@@ -34,6 +51,7 @@ Atur rutinitas pagi & malam, dapatkan rekomendasi perawatan kulit sesuai cuaca, 
 - Detail sesi per tanggal: Morning, Night, dan aktivitas tambahan
 
 ### 📊 Analytics
+- **Skin Score** (0–100) yang menggambarkan seberapa konsisten rutinitasmu
 - Grafik mingguan sesi yang selesai (7 hari terakhir)
 - Step skincare yang paling sering kamu lakukan
 - Statistik: total hari aktif dan **streak** saat ini
